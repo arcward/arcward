@@ -1,4 +1,8 @@
-### Hi there 👋
+### Quickstart 👏
+
+I really, **really** enjoy 🛠 building stuff - regardless of whether it's created using a 💻, 🎸, 🍳, 🎮...
+
+When it comes to software, I primarily reach for [**Python**](https://www.python.org/) and [**Go**](https://go.dev/).
 
 <!--
 **arcward/arcward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
