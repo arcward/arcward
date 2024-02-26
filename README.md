@@ -2,7 +2,7 @@
 
 I really, **really** enjoy 🛠 building stuff - regardless of whether it's created using a 💻, 🎸, 🍳, 🎮...
 
-When it comes to software, I primarily reach for [**Python**](https://www.python.org/) and [**Go**](https://go.dev/).
+My toolkit primarily consists primarily of [**Python**](https://www.python.org/) and [**Go**](https://go.dev/). Because my professional work leans more heavily on Python, my tinkering and OSS projects tend to be in Go.
 
 <!--
 **arcward/arcward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
